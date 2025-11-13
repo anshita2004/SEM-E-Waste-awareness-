@@ -42,3 +42,17 @@ A structured survey consisting of 40 items across six sections:
 | SRMR | 0.041 | Excellent Fit |
 
 ## 📂 Project Structure
+├── CPS FRONT 1.pdf
+├── data/ # survey or sample data
+├── code/ # Python analysis scripts
+├── requirements.txt
+└── README.md
+
+## 🧩 Future Scope
+
+Longitudinal tracking of behavioral change.
+
+IoT-based e-waste collection systems.
+
+Integration with circular economy frameworks.
+
